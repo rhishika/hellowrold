@@ -1,0 +1,6 @@
+no1=input("enter first no.")
+print(no1)
+no2=input("enter second no.")
+print(no2)
+add=int(no1)+int(no2)
+print('The sum of {0} + {1} = {2}'. format(no1, no2, add))
